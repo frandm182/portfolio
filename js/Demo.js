@@ -61,7 +61,7 @@ $(document).ready(function () {
         '<a href="#" class="color" data-color="green2.css" style="background-color:#52bf00"></a>' +
         '<a href="#" class="color" data-color="red.css" style="background-color:#d81300"></a>' +
         '<a href="#" class="color" data-color="blue.css" style="background-color:#425cbb"></a>' +
-        '<a href="#" class="color" data-color="Purple.css" style="background-color:#BF55EC"></a>' +
+        '<a href="#" class="color" data-color="purple.css" style="background-color:#BF55EC"></a>' +
         '<a href="#" class="color" data-color="turquoise.css" style="background-color:#00b4d9"></a>' +
         '<a href="#" class="color" data-color="green.css" style="background-color:#029A83"></a>' +
         '<a href="#" class="color" data-color="pink.css" style="background-color:#f62459"></a>' +
